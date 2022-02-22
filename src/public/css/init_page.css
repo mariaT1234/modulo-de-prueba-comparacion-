@@ -1,0 +1,49 @@
+body{
+    
+    background: rgb(120,13,128);
+    background: linear-gradient(90deg, rgba(120,13,128,1) 0%, rgba(0,56,109,1) 100%);
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: rgba(43, 5, 133, 0.911);
+}
+
+.form1{
+    width: 400px;
+    height: 360px;
+    background-color: white;
+    margin: auto;
+    margin-top: 165px;  
+}
+
+.form1 h3{
+    margin: 0;
+    text-align: center;
+    height: 55px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid;
+    font-size: 22px;
+    height: 50px;
+}
+
+.controls{
+    width: 350px;
+    border: 1px solid blue;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.button{
+    width: 93%;
+    height: 35px;
+    background: rgba(2, 84, 206, 0.87);
+    border: none;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.form1 p{
+    border-bottom: 2px solid;
+    height: 55px;
+}
